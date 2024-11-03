@@ -1,0 +1,8 @@
+Introducción
+Este repositorio contiene los códigos y resultados de los modelos predictivos implementados utilizando tres datasets 
+
+Vehicle Dataset: Para predecir el precio de un automóvil en función de sus características técnicas y de mercado.
+
+Heart Disease Cleveland UCI: Para predecir la presencia de enfermedad cardíaca en un paciente basándose en sus datos clínicos.
+
+Red Wine Quality: Para clasificar la calidad del vino tinto en una de las 10 categorías disponibles.
